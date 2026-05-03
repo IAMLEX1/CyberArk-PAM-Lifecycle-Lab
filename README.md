@@ -24,17 +24,18 @@ I implemented account onboarding, safe management, credential verification, reco
 - Account lifecycle (Create → Manage → Delete)
 - Security and access control
 
-## Screenshots
+The following screenshots demonstrate the end-to-end CyberArk PAM lifecycle from account onboarding to secure privileged access and deprovisioning.
 
 ### 1. Safe Creation & Management
-![Safe Overview](safe-overview.png)
+<img src="https://github.com/user-attachments/assets/5e20a6c9-c733-424d-ae91-a4f14766dd1f"  width="600"  />
+Shows Safe configuration (Lex1) with assigned CPM and member permissions.
 
 
 
 ### 2. Account Onboarding
 
 <img src="https://github.com/user-attachments/assets/6d5186d5-9485-4f32-a2a1-61755bf70f70"  width="600"  />
-
+Demonstrates onboarding of a Windows local account into CyberArk, including platform assignment and credential configuration.
 
 
 ### 3. Account Management View
