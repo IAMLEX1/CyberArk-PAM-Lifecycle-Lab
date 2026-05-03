@@ -28,10 +28,12 @@ I implemented account onboarding, safe management, credential verification, reco
 
 ### 1. Safe Creation & Management
 ![Safe Overview](safe-overview.png)
-![Safe Details](safe-details.png)
+
+
 
 ### 2. Account Onboarding
 ![Account Onboarding](account-onboarding.png)
+
 
 ### 3. Account Management View
 ![Account Management](account-management.png)
@@ -39,8 +41,12 @@ I implemented account onboarding, safe management, credential verification, reco
 ### 4. Privileged Access via PSM
 ![PSM Connect](psm-connect.png)
 
+
 ### 5. Active Session (RDP)
 ![RDP Session](rdp-session.png)
 
+
 ### 6. Account Deletion
 ![Account Deletion](account-deleted.png)
+
+
