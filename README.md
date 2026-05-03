@@ -53,4 +53,4 @@ Demonstrates onboarding of a Windows local account into CyberArk, including plat
 ### 6. Account Deletion
 <img src="https://github.com/user-attachments/assets/8c7f08a3-b940-4c95-a6f0-1b0e3cb41052" width="700" />
 
-
+Demonstrates secure offboarding by deleting a privileged account in CyberArk, ensuring removal of dependencies, access links, and group memberships to prevent unauthorized access.
