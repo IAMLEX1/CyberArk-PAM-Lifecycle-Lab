@@ -32,7 +32,7 @@ I implemented account onboarding, safe management, credential verification, reco
 
 
 ### 2. Account Onboarding
-![Account Onboarding](account-onboarding.png)
+
 <img src="https://github.com/user-attachments/assets/6d5186d5-9485-4f32-a2a1-61755bf70f70"  width="800"  />
 
 
