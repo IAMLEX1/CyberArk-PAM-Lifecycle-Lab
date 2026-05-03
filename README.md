@@ -38,7 +38,7 @@ I implemented account onboarding, safe management, credential verification, reco
 
 
 ### 3. Account Management View
-![Account Management](account-management.png)
+<img src="https://github.com/user-attachments/assets/335ca974-87ce-49fb-a533-2884a0f6c415" width="600" />
 
 ### 4. Privileged Access via PSM
 ![PSM Connect](psm-connect.png)
