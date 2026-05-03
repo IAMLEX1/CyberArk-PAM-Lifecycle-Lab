@@ -41,14 +41,14 @@ I implemented account onboarding, safe management, credential verification, reco
 <img src="https://github.com/user-attachments/assets/335ca974-87ce-49fb-a533-2884a0f6c415" width="800" />
 
 ### 4. Privileged Access via PSM
-![PSM Connect](psm-connect.png)
+<img src="https://github.com/user-attachments/assets/d9de66d6-88cc-4f08-a6e3-0a61521db201" width="800" />
 
 
 ### 5. Active Session (RDP)
-![RDP Session](rdp-session.png)
+<img src="https://github.com/user-attachments/assets/2ced8664-c761-4b2d-972b-a19532f85ad1" width="800" />
 
 
 ### 6. Account Deletion
-![Account Deletion](account-deleted.png)
+<img src="https://github.com/user-attachments/assets/8c7f08a3-b940-4c95-a6f0-1b0e3cb41052" width="700" />
 
 
